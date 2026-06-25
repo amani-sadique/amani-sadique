@@ -1,4 +1,4 @@
-# Kia ora, I'm Amani 👩🏻‍💻
+# Kia ora, I'm Amani (أماني) 👩🏻‍💻
 
 Front-end Developer & UX/UI Designer passionate about building accessible, user-centred digital experiences.
 
