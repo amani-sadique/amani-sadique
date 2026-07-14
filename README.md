@@ -8,6 +8,3 @@ Front-end Developer & UX/UI Designer passionate about building accessible, user-
 
 ## Tech
 HTML • CSS • JavaScript • React • MySQL • REST APIs • Postman • Figma • Miro • VS Code • Unity
-
-## Open To
-Front-end Development • UX/UI Design • SEO • Contract & Full-Time Roles
