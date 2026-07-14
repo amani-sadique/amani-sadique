@@ -1,6 +1,6 @@
 # Kia ora, I'm Amani (أماني) 👩🏻‍💻
 
-Front-end Developer & UX/UI Designer passionate about building accessible, user-centred digital experiences.
+Front-end Developer & UX/UI Designer
 
 🌱 Currently learning TypeScript  
 🎓 PGCert Design | Bachelor of Communication Studies | Diploma in Web Development & Design  
