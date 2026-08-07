@@ -1,6 +1,6 @@
 # Kia ora, I'm Amani 👩🏻‍💻
 
-After completing a Diploma in Web Development and Design, I am now sharpening my expertise in Front-End Development & UI Design by working on freelance projects.
+After completing a Diploma in Web Development and Design, I am now sharpening my expertise in Front-End Development & UX/UI Design by working on freelance projects.
 
 🌱 Currently learning TypeScript & Playwright
 
